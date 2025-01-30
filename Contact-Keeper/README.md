@@ -1,4 +1,4 @@
-This repo contains a script for Scripting Class Mark Nudalo
+This repo contains a script for Scripting Class
 
 Description:
 
